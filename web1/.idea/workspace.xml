@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4fd4e386-fc09-4a59-a53f-18e500b6d7db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtos.css" beforeDir="false" afterPath="$PROJECT_DIR$/produtos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/produtos.html" beforeDir="false" afterPath="$PROJECT_DIR$/produtos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -68,7 +70,8 @@
       <workItem from="1573242776221" duration="1926000" />
       <workItem from="1573329450102" duration="542000" />
       <workItem from="1573344778839" duration="2084000" />
-      <workItem from="1573517091123" duration="1559000" />
+      <workItem from="1573517091123" duration="2122000" />
+      <workItem from="1573519215826" duration="1184000" />
     </task>
     <task id="LOCAL-00001" summary="Curso 02 - Aula 03">
       <created>1573245495828</created>
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573350080349</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Curso 02 - Aula 04 - 07">
+      <created>1573518771064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573518771064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Curso 02 - Aula 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curso 02 - Aula 03" />
+    <MESSAGE value="Curso 02 - Aula 04 - 07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso 02 - Aula 04 - 07" />
   </component>
 </project>
