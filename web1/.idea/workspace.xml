@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd4e386-fc09-4a59-a53f-18e500b6d7db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contato.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style-home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produtos.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/produtos.html" beforeDir="false" afterPath="$PROJECT_DIR$/produtos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,6 +75,8 @@
       <workItem from="1573344778839" duration="2084000" />
       <workItem from="1573517091123" duration="2122000" />
       <workItem from="1573519215826" duration="1184000" />
+      <workItem from="1573646163771" duration="58000" />
+      <workItem from="1573646224256" duration="1432000" />
     </task>
     <task id="LOCAL-00001" summary="Curso 02 - Aula 03">
       <created>1573245495828</created>
