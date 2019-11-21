@@ -72,7 +72,8 @@
       <workItem from="1573517091123" duration="2122000" />
       <workItem from="1573519215826" duration="1184000" />
       <workItem from="1574202447428" duration="612000" />
-      <workItem from="1574206021182" duration="774000" />
+      <workItem from="1574206021182" duration="862000" />
+      <workItem from="1574297165082" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="Curso 02 - Aula 03">
       <created>1573245495828</created>
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573518771064</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Curso 03 - Aula 03">
+      <created>1574206843865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574206843865</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Curso 02 - Aula 03" />
     <MESSAGE value="Curso 02 - Aula 04 - 07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Curso 02 - Aula 04 - 07" />
+    <MESSAGE value="Curso 03 - Aula 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso 03 - Aula 03" />
   </component>
 </project>
