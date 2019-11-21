@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fd4e386-fc09-4a59-a53f-18e500b6d7db" name="Default Changelist" comment="" />
+    <list default="true" id="4fd4e386-fc09-4a59-a53f-18e500b6d7db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +74,8 @@
       <workItem from="1574202447428" duration="612000" />
       <workItem from="1574206021182" duration="862000" />
       <workItem from="1574297165082" duration="398000" />
-      <workItem from="1574297596769" duration="664000" />
+      <workItem from="1574297596769" duration="682000" />
+      <workItem from="1574375652862" duration="796000" />
     </task>
     <task id="LOCAL-00001" summary="Curso 02 - Aula 03">
       <created>1573245495828</created>
@@ -107,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574297658645</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Curso 03 - Aula 04">
+      <created>1574298295687</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574298295687</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
