@@ -225,10 +225,54 @@ td, th {
 .itens:first-child { /* pode ser o nth-child(n). pega o n-esimo. pode pegar todas as linhas pares se usar nth-child(2n). tem last-child tb*/
 	font-weight: bold;
 }
-.imagem-beneficios{
+.imagem-beneficios {
 	width: 60%;
+	opacity: 1;
+	transition: 400ms;
+	box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.imagem-beneficios:hover {
+	opacity: 0.3;
 }
 .video {
 	width: 560px;
 	margin: 2em auto;
+}
+
+/* Aula de seletores avançados.
+Seletores avançados CSS
+Seletor >, para acessar os filhos de determinado elemento. Por exemplo, para acessar todos os p dentro de main:
+main > p {
+}
+Seletor +, para acessar o primeiro irmão de determinado elemento. Por exemplo, para acessar o primeiro p após um img:
+img + p {
+}
+Seletor ~, para acessar todos os irmãos de determinado elemento. Por exemplo, para acessar todos os p após um img:
+img ~ p {
+}
+Seletor not, para acessar os elementos, exceto algum. Por exemplo, para acessar todos os p dentro de main, exceto o p que tem id missao:
+main p:not(#missao) {
+}
+Como fazer contas com CSS, com a propriedade calc
+
+
+*/
+
+@media screen and (max-width: 480px) {
+	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+		width: auto;
+	}
+
+	h1 {
+		text-align: center;
+	}
+
+	nav {
+		position: static;
+	}
+
+	.lista-beneficios, .imagem-beneficios {
+		width: 100%;
+	}
 }
