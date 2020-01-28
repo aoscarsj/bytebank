@@ -26,7 +26,6 @@ class FormularioTransferencia extends StatelessWidget {
   }
 }
 
-
 class ListaTransferencia extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
