@@ -15,8 +15,8 @@ public class TesteEscritaPrintStreamPrintWriter {
 //		ps.close();
 
 		
-		//PrintWriter
-		PrintWriter pw = new PrintWriter("lorem2.txt");
+		//PrintWriter 
+		PrintWriter pw = new PrintWriter("lorem2.txt", "UTF-8");
 		
 		pw.write("Printando no arquivo com o metodo write!");
 		pw.println();
