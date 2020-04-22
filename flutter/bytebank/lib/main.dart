@@ -85,20 +85,23 @@ class Editor extends StatelessWidget {
     );
   }
 }
-
+// tem que usar statefull qnd tiver atualizacao dinamica
 class ListaTransferencia extends StatelessWidget {
+
+  final List<Transferencia> _transferencias = List();
+
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Transferências"),
         backgroundColor: Color.fromRGBO(0, 70, 10, 1),
       ),
-      body: Column(
-        children: <Widget>[
-          ItemTransferencia(Transferencia(400.0, 1024)),
-          ItemTransferencia(Transferencia(5000.0, 0001)),
-          ItemTransferencia(Transferencia(7005.0, 0021)),
-        ],
+      body: ListView.builder(
+        itemCount: _transferencias.length,
+        itemBuilder: (context, indice){
+          final transferencia = _transferencias[indice];
+          return ItemTransferencia(transferencia);
+        },
       ),
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.add),
@@ -110,7 +113,7 @@ class ListaTransferencia extends StatelessWidget {
           future.then((transferenciaRecebida) {
             debugPrint("Chegou no then do future");
             debugPrint("$transferenciaRecebida");
-
+            _transferencias.add(transferenciaRecebida);
           });
         },
       ),
@@ -145,3 +148,8 @@ class Transferencia {
     return 'Transferencia{_valor: $_valor, _numeroConta: $_numeroConta}';
   }
 }
+
+
+/*
+ListView eh para elementos estaticos!
+ */
