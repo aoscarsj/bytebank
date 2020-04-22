@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Para formatar: ctrl + alt + l
 void main() => runApp(ByteBankApp());
 
 class ByteBankApp extends StatelessWidget {
