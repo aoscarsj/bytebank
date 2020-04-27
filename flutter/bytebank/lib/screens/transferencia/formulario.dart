@@ -12,9 +12,7 @@ const _dicaCampoValor = "0.00";
 
 const _textoBotaoConfirmar = "Confirmar";
 
-
 class FormularioTransferencia extends StatefulWidget {
-
   @override
   State<StatefulWidget> createState() {
     // TODO: implement createState
@@ -23,9 +21,8 @@ class FormularioTransferencia extends StatefulWidget {
 }
 
 class FormularioTransferenciaState extends State<FormularioTransferencia> {
-
   final TextEditingController _controladorCampoNumeroConta =
-  TextEditingController();
+      TextEditingController();
   final TextEditingController _controladorCampoValor = TextEditingController();
 
   @override
@@ -65,5 +62,4 @@ class FormularioTransferenciaState extends State<FormularioTransferencia> {
       Navigator.pop(context, transferenciaCriada);
     }
   }
-
 }
