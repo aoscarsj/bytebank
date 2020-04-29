@@ -1,6 +1,20 @@
+import 'package:bytebank/database/app_database.dart';
+import 'package:bytebank/models/contact.dart';
+import 'package:bytebank/screens/contact_form.dart';
+import 'package:bytebank/screens/contacts_list.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(BytebankApp());
+import 'screens/dashboard.dart';
+
+void main() {
+  runApp(BytebankApp());
+
+  save(Contact(1, 'artur', 100122)).then((id){
+    findAll().then((contacts) => debugPrint(contacts.toString()));
+
+  });
+
+}
 
 class BytebankApp extends StatelessWidget {
   // This widget is the root of your application.
@@ -15,56 +29,8 @@ class BytebankApp extends StatelessWidget {
           textTheme: ButtonTextTheme.primary,
         )
       ),
-      home: Dashboard()
+      home: Dashboard(),
     );
   }
 }
-class Dashboard extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Dashboard'),
-      ),
 
-      body: Column(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: <Widget>[
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Image.asset('images/bytebank_logo.png'),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              padding: EdgeInsets.all(8.0),
-              color: Theme.of(context).primaryColor,
-              width: 150,
-              height: 100,
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: <Widget>[
-                  Icon(
-                    Icons.people,
-                    color: Colors.white,
-                    size: 32.0,
-                  ),
-                  Text(
-                    'Contacts',
-
-                    style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 16
-                    ),
-                  )
-                ],
-              ),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-}
