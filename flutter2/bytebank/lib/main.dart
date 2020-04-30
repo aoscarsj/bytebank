@@ -8,12 +8,6 @@ import 'screens/dashboard.dart';
 
 void main() {
   runApp(BytebankApp());
-
-  save(Contact(1, 'artur', 100122)).then((id){
-    findAll().then((contacts) => debugPrint(contacts.toString()));
-
-  });
-
 }
 
 class BytebankApp extends StatelessWidget {
