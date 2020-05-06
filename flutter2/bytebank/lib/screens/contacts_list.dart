@@ -3,7 +3,12 @@ import 'package:bytebank/models/contact.dart';
 import 'package:bytebank/screens/contact_form.dart';
 import 'package:flutter/material.dart';
 
-class ContactsList extends StatelessWidget {
+class ContactsList extends StatefulWidget {
+  @override
+  _ContactsListState createState() => _ContactsListState();
+}
+
+class _ContactsListState extends State<ContactsList> {
   @override
   Widget build(BuildContext context) {
 //    contacts.add(Contact(1,"artur", 1234));
@@ -13,7 +18,8 @@ class ContactsList extends StatelessWidget {
       ),
       body: FutureBuilder<List<Contact>>(
         initialData: List(),
-        future: findAll(),//Future.delayed(Duration(seconds: 1)).then((value) => findAll()),
+        future: findAll(),
+        //Future.delayed(Duration(seconds: 1)).then((value) => findAll()),
         builder: (context, snapshot) {
           switch (snapshot.connectionState) {
             case ConnectionState.none: //nao foi executado
@@ -30,7 +36,8 @@ class ContactsList extends StatelessWidget {
                 ),
               );
               break;
-            case ConnectionState.active: //pedacos de um carregamento assincrono, por ex, download. ele traz o percent. eh o stream.
+            case ConnectionState
+                .active: //pedacos de um carregamento assincrono, por ex, download. ele traz o percent. eh o stream.
               break;
             case ConnectionState.done:
               final List<Contact> contacts = snapshot.data;
@@ -49,15 +56,11 @@ class ContactsList extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.add),
         onPressed: () {
-          Navigator.of(context)
-              .push(
-                MaterialPageRoute(
-                  builder: (context) => ContactForm(),
-                ),
-              )
-              .then(
-                (newContact) => debugPrint(newContact.toString()),
-              );
+          Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (context) => ContactForm(),
+            ),
+          );
         },
       ),
     );
