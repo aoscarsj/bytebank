@@ -9,6 +9,7 @@ $(function () {
    inicializaContadores();
    inicializaCronometro();
    $("#botao-reiniciar").click(reiniciaJogo);
+   inicializaMarcadores();
 });
 
 
@@ -41,7 +42,9 @@ function inicializaCronometro(){
          if(tempoRestante < 1){
             clearInterval(cronometroID);
             campo.attr("disabled", true);
+            
             $("#botao-reiniciar").attr("disabled", false);
+            campo.toggleClass("campo-desativado", true);
 
          }
       }, 1000)
@@ -51,7 +54,7 @@ function inicializaCronometro(){
 
 
 //eventos mais comuns tem uma funcao propria
-$("#botao-reiniciar").click(reiniciaJogo);
+$("#botao-reiniciar").click(reiniciaJogo());
 
 function reiniciaJogo() {
    campo.attr("disabled", false);
@@ -60,5 +63,35 @@ function reiniciaJogo() {
    $("#contador-caracteres").text("0");
    $("#tempo-digitacao").text(tempoInicial);
    inicializaCronometro();
+   campo.toggleClass("campo-desativado", false);
+   campo.removeClass("borda-vermelha");
+   campo.removeClass("borda-verde");
+
 }
 
+function inicializaMarcadores() {
+   var frase = $(".frase").text();
+   campo.on("input", function () {
+      var digitado = campo.val();
+
+      // var comparavel = frase.substr(0, digitado.length);
+      //
+      // if(comparavel == digitado) {
+      //    campo.addClass("borda-verde");
+      //    campo.removeClass("borda-vermelha");
+      // }
+      // else{
+      //    campo.addClass("borda-vermelha");
+      //    campo.removeClass("borda-verde");
+      // }
+      //forma 2 de fazer.
+      if(frase.startsWith(digitado)){
+         campo.addClass("borda-verde");
+         campo.removeClass("borda-vermelha");
+      }else{
+         campo.addClass("borda-vermelha");
+         campo.removeClass("borda-verde");
+      }
+
+   });
+}
