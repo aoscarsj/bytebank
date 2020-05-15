@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="571bd4f7-13da-4fac-b489-725c2884b7a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Artur Oscar &lt;artur.junior@ufba.br&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1azRtVNn2HfcAn2usYFGB0D3sT9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="flutter pub get" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="571bd4f7-13da-4fac-b489-725c2884b7a1" name="Default Changelist" comment="" />
+      <created>1587736650034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587736650034</updated>
+      <workItem from="1587736668832" duration="793000" />
+      <workItem from="1587824247277" duration="613000" />
+      <workItem from="1587825145700" duration="169000" />
+      <workItem from="1587987577911" duration="3733000" />
+      <workItem from="1588076035264" duration="128000" />
+      <workItem from="1588076174205" duration="3882000" />
+      <workItem from="1588158860833" duration="11000" />
+      <workItem from="1588158886124" duration="3890000" />
+      <workItem from="1588245493380" duration="6000" />
+      <workItem from="1588246398625" duration="77000" />
+      <workItem from="1588246490373" duration="3228000" />
+      <workItem from="1588766801758" duration="33000" />
+      <workItem from="1588766851038" duration="1324000" />
+      <workItem from="1588852391279" duration="3643000" />
+      <workItem from="1588938886406" duration="29000" />
+      <workItem from="1588938934568" duration="971000" />
+      <workItem from="1589374605370" duration="24000" />
+      <workItem from="1589374644283" duration="2931000" />
+      <workItem from="1589544239368" duration="153000" />
+      <workItem from="1589544403935" duration="2526000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fim da aula 1 de persistência. Finalizando o estilo do dashboard.">
+      <created>1587991557937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587991557937</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Iniciando aula 5. Adicionado integração BD e form. Foi feito um downgrade no bd.">
+      <created>1588768159109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588768159109</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Final do curso de persistência, app bytebank fazendo inserção de dados. Código refatorado.">
+      <created>1588855999878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588855999878</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inicializando curso de Flutter web API - Adicionando nova funcionalidade">
+      <created>1589375660931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589375660931</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Melhorando o código.">
+      <created>1589383859757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589383859757</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adicionado lista de transação e início da configuração da web api">
+      <created>1589546962319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589546962319</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iniciando curso de persistência de dados do Alura." />
+    <MESSAGE value="Fim da aula 1 de persistência. Finalizando o estilo do dashboard." />
+    <MESSAGE value="Fim da aula 2. Terminando o fluxo da aplicação." />
+    <MESSAGE value="Fim da aula 3. Configurando o sqlite" />
+    <MESSAGE value="Fim da aula 4. Integrando sql com a aplicação." />
+    <MESSAGE value="Iniciando aula 5. Adicionado integração BD e form. Foi feito um downgrade no bd." />
+    <MESSAGE value="Final do curso de persistência, app bytebank fazendo inserção de dados. Código refatorado." />
+    <MESSAGE value="Inicializando curso de Flutter web API - Adicionando nova funcionalidade" />
+    <MESSAGE value="Melhorando o código." />
+    <MESSAGE value="Adicionado lista de transação e início da configuração da web api" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado lista de transação e início da configuração da web api" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1644" y="252" width="374" height="558" key="#com.intellij.ide.util.MemberChooser" timestamp="1589375393220">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1644" y="252" key="#com.intellij.ide.util.MemberChooser/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589375393220" />
+    <state x="1986" y="252" width="374" height="558" key="#com.intellij.ide.util.MemberChooser/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588079789365" />
+    <state x="1275" y="132" width="928" height="805" key="CommitChangelistDialog2" timestamp="1589546962164">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1275" y="132" width="928" height="805" key="CommitChangelistDialog2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589546962164" />
+    <state x="1617" y="132" width="844" height="801" key="CommitChangelistDialog2/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588855999749" />
+    <state x="1827" y="293" width="424" height="480" key="FileChooserDialogImpl" timestamp="1587825283109">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1827" y="293" width="424" height="480" key="FileChooserDialogImpl/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587825283109" />
+    <state x="2033" y="428" key="Github.ShareDialog" timestamp="1588249548032">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2033" y="428" key="Github.ShareDialog/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588249548032" />
+    <state width="757" height="127" key="GridCell.Tab.0.bottom" timestamp="1589547422925">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="757" height="127" key="GridCell.Tab.0.bottom/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589547422925" />
+    <state width="637" height="264" key="GridCell.Tab.0.bottom/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588856037096" />
+    <state width="757" height="127" key="GridCell.Tab.0.center" timestamp="1589547422925">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="757" height="127" key="GridCell.Tab.0.center/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589547422925" />
+    <state width="637" height="264" key="GridCell.Tab.0.center/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588856037096" />
+    <state width="757" height="127" key="GridCell.Tab.0.left" timestamp="1589547422925">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="757" height="127" key="GridCell.Tab.0.left/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589547422925" />
+    <state width="637" height="264" key="GridCell.Tab.0.left/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588856037096" />
+    <state width="757" height="127" key="GridCell.Tab.0.right" timestamp="1589547422925">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="757" height="127" key="GridCell.Tab.0.right/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589547422925" />
+    <state width="637" height="264" key="GridCell.Tab.0.right/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588856037096" />
+    <state x="2066" y="121" key="SettingsEditor" timestamp="1589547418059">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2066" y="121" key="SettingsEditor/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589547418059" />
+    <state width="498" height="468" key="SwitcherDM" timestamp="1588855398921">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state width="498" height="468" key="SwitcherDM/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588855398921" />
+    <state x="1297" y="271" width="800" height="524" key="Vcs.Push.Dialog.v2" timestamp="1589546968531">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1297" y="271" width="800" height="524" key="Vcs.Push.Dialog.v2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589546968531" />
+    <state x="1639" y="271" width="800" height="524" key="Vcs.Push.Dialog.v2/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588856020653" />
+    <state x="1362" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1589544417807">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1362" y="362" key="com.intellij.ide.util.TipDialog/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589544417807" />
+    <state x="1704" y="362" key="com.intellij.ide.util.TipDialog/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588938943463" />
+    <state x="1950" y="453" width="445" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588249617829">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1950" y="453" width="445" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588249617829" />
+    <state x="1826" y="123" width="703" height="819" key="find.popup" timestamp="1588078933744">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1826" y="123" width="703" height="819" key="find.popup/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588078933744" />
+    <state x="1366" y="261" width="1347" height="544" key="new project wizard" timestamp="1587825301362">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1366" y="261" width="1347" height="544" key="new project wizard/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587825301362" />
+    <state x="1690" y="244" width="672" height="677" key="run.anything.popup" timestamp="1588939857313">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1690" y="244" width="672" height="677" key="run.anything.popup/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588939857313" />
+    <state x="1841" y="249" width="672" height="160" key="search.everywhere.popup" timestamp="1588855390627">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1841" y="249" width="672" height="160" key="search.everywhere.popup/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588855390627" />
+  </component>
+</project>

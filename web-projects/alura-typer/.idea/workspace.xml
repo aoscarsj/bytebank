@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1f4976a-82e7-443c-885d-6be2c099e1f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1azGGfj9xu29kP6O4FLLGxEUtf8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f4976a-82e7-443c-885d-6be2c099e1f1" name="Default Changelist" comment="" />
+      <created>1587730914832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587730914832</updated>
+      <workItem from="1587730916068" duration="3414000" />
+      <workItem from="1587995442687" duration="1427000" />
+      <workItem from="1588080368645" duration="1288000" />
+      <workItem from="1588163338980" duration="2110000" />
+      <workItem from="1588863452758" duration="809000" />
+      <workItem from="1588947049444" duration="1555000" />
+      <workItem from="1589207969053" duration="2859000" />
+      <workItem from="1589295045838" duration="1470000" />
+      <workItem from="1589371237753" duration="1530000" />
+      <workItem from="1589455890492" duration="5513000" />
+    </task>
+    <task id="LOCAL-00001" summary="Iniciando curso de Jquery. &#10;&#10;Fim da aula 1.">
+      <created>1587734427852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587734427852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Utilizando textarea. &#10;&#10;Fim da aula 2.">
+      <created>1587996856191</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587996856191</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fim da aula 4. Adicionando botão reset.">
+      <created>1588165432372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588165432372</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finalizando curso de jquery.">
+      <created>1589462740208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589462740208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Iniciando curso de Jquery. &#10;&#10;Fim da aula 1." />
+    <MESSAGE value="Utilizando textarea. &#10;&#10;Fim da aula 2." />
+    <MESSAGE value="Fim da aula 3. Adicionando game over." />
+    <MESSAGE value="Fim da aula 4. Adicionando botão reset." />
+    <MESSAGE value="Terminando aula 5. Adicionando efeitos visuais utilizando o materialcss" />
+    <MESSAGE value="Finalizando curso de jquery." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando curso de jquery." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1345" y="189" width="800" height="673" key="#Notifications" timestamp="1589371424668">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1345" y="189" width="800" height="673" key="#Notifications/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589371424668" />
+    <state x="1024" y="36" width="926" height="980" key="CommitChangelistDialog2" timestamp="1589462740023">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1024" y="36" width="926" height="980" key="CommitChangelistDialog2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589462740023" />
+    <state x="1366" y="36" width="848" height="1022" key="CommitChangelistDialog2/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588165432203" />
+    <state x="1920" y="36" width="848" height="980" key="CommitChangelistDialog2/1920.0.2560.1080/0.28.1920.1014@1920.0.2560.1080" timestamp="1587734427590" />
+    <state x="1024" y="260" width="800" height="532" key="Vcs.Push.Dialog.v2" timestamp="1589462743689">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1024" y="260" width="800" height="532" key="Vcs.Push.Dialog.v2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589462743689" />
+    <state x="1366" y="260" width="800" height="532" key="Vcs.Push.Dialog.v2/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588165439992" />
+    <state x="1920" y="260" width="800" height="532" key="Vcs.Push.Dialog.v2/1920.0.2560.1080/0.28.1920.1014@1920.0.2560.1080" timestamp="1587734434474" />
+    <state x="1414" y="242" key="run.anything.popup" timestamp="1589461995338">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1414" y="242" key="run.anything.popup/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589461995338" />
+    <state x="1705" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1588863563161">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1705" y="247" width="672" height="678" key="search.everywhere.popup/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588863563161" />
+  </component>
+</project>

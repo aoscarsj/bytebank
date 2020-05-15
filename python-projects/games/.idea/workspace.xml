@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91514ec3-9b7c-44c3-96ec-7607bdbd9821" name="Default Changelist" comment="Fim da aula 6. Aprendendo random. O Python gera pseudo-random.">
+      <change afterPath="$PROJECT_DIR$/../../flutter2/bytebank/bytebank-api" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter2/bytebank/bytebank-api-runnable/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter2/bytebank/bytebank-api-runnable/server.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flutter2/bytebank/lib/screens/transactions_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/python3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jogos.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1azVb3fduvA2aj80LeXIwog1hnb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="adivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jogos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/adivinhacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.adivinhacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91514ec3-9b7c-44c3-96ec-7607bdbd9821" name="Default Changelist" comment="" />
+      <created>1587738476934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587738476934</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fim da aula 3 de python - o comando elif (else if)">
+      <created>1588166286576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588166286576</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fim da aula 6. Aprendendo random. O Python gera pseudo-random.">
+      <created>1589374435856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589374435856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fim da aula 3 de python - o comando elif (else if)" />
+    <MESSAGE value="Fim da aula 6. Aprendendo random. O Python gera pseudo-random." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fim da aula 6. Aprendendo random. O Python gera pseudo-random." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1501" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587738536493">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1501" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587738536493" />
+    <state x="1458" y="286" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589294296602">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1458" y="286" width="424" height="480" key="FileChooserDialogImpl/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589294296602" />
+    <state width="1299" height="173" key="GridCell.Tab.0.bottom" timestamp="1589374450369">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1299" height="173" key="GridCell.Tab.0.bottom/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589374450369" />
+    <state width="1299" height="173" key="GridCell.Tab.0.bottom/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
+    <state width="1299" height="173" key="GridCell.Tab.0.center" timestamp="1589374450369">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1299" height="173" key="GridCell.Tab.0.center/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589374450369" />
+    <state width="1299" height="173" key="GridCell.Tab.0.center/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
+    <state width="1299" height="173" key="GridCell.Tab.0.left" timestamp="1589374450369">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1299" height="173" key="GridCell.Tab.0.left/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589374450369" />
+    <state width="1299" height="173" key="GridCell.Tab.0.left/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
+    <state width="1299" height="173" key="GridCell.Tab.0.right" timestamp="1589374450369">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1299" height="173" key="GridCell.Tab.0.right/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589374450369" />
+    <state width="1299" height="173" key="GridCell.Tab.0.right/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
+    <state x="1174" y="167" key="SettingsEditor" timestamp="1589294447568">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1174" y="167" key="SettingsEditor/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589294447568" />
+    <state x="1280" y="269" width="800" height="524" key="Vcs.Push.Dialog.v2" timestamp="1589374441922">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1280" y="269" key="Vcs.Push.Dialog.v2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589374441922" />
+    <state x="1622" y="269" width="800" height="524" key="Vcs.Push.Dialog.v2/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588166295010" />
+  </component>
+</project>

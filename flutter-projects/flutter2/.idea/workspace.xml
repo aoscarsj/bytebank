@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b419caa-23f1-42ee-b806-eb16af6261d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../python3/jogos/adivinhacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter/bytebank/lib/screens/transferencia/formulario.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter/bytebank/lib/screens/transferencia/formulario.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/python3-p1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/testes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/python3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/lib64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/pyvenv.cfg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7dyakcyjQNcrnNHxW68cFR8fb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b419caa-23f1-42ee-b806-eb16af6261d9" name="Default Changelist" comment="" />
+      <created>1587987320748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587987320748</updated>
+      <workItem from="1587987322059" duration="163000" />
+      <workItem from="1587987499700" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1636" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587987469172">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1636" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587987469172" />
+    <state x="1667" y="168" key="SettingsEditor" timestamp="1587987405129">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1667" y="168" key="SettingsEditor/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587987405129" />
+    <state x="1838" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1587987499647">
+      <screen x="1366" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1838" y="360" key="com.intellij.ide.util.TipDialog/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587987499647" />
+  </component>
+</project>
