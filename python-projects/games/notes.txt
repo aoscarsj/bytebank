@@ -1,0 +1,9 @@
+"Python é uma linguagem interpretada, em oposição às compiladas,
+embora a distinção possa ficar desfocada devido à presença do compilador de bytecode."
+
+O código fonte é automaticamente compilado para bytecode do Python pelo interpretador CPython.
+ O código compilado é comumente armazenado nos arquivos no PYC (ou PY0),
+ sendo regerado quando o arquivo fonte é atualizado ou quando é necessário."
+
+ "O fato de uma linguagem ser interpretada ou compilada não é uma questão da linguagem, mas da sua implementação.
+  (...) Python é compilada. Não compilada para o código de máquina antes da execução, apenas para o bytecode.

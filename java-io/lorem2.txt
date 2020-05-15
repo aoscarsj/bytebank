@@ -1,2 +1,0 @@
-Printando no arquivo com o metodo write!
-Printando com o println
