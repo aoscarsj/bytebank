@@ -1,4 +1,5 @@
 import 'package:bytebank/screens/contacts_list.dart';
+import 'package:bytebank/screens/transactions_list.dart';
 import 'package:flutter/material.dart';
 import 'package:path/path.dart';
 
@@ -32,7 +33,9 @@ class Dashboard extends StatelessWidget {
                 _FeatureItem(
                   'Transaction Feed',
                   Icons.description,
-                  onClick: () => print("transaction feed was clicked"),
+                  onClick: () {
+                    _showTransactionList(context);
+                  },
                 ),
                 _FeatureItem(
                   'Teste',
@@ -54,6 +57,14 @@ class Dashboard extends StatelessWidget {
       ),
     );
   }
+
+  void _showTransactionList(BuildContext context) {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => TransactionsList(),
+      ),
+    );
+  }
 }
 
 class _FeatureItem extends StatelessWidget {
@@ -61,18 +72,20 @@ class _FeatureItem extends StatelessWidget {
   final IconData icon;
   final Function onClick;
 
-  _FeatureItem(
-    this.name,
-    this.icon, {
-    @required this.onClick,
-  });
+  _FeatureItem(this.name,
+      this.icon, {
+        @required this.onClick,
+      }) : assert(icon != null),
+           assert(onClick != null);
 
   @override
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.all(8.0),
       child: Material(
-        color: Theme.of(context).primaryColor,
+        color: Theme
+            .of(context)
+            .primaryColor,
         child: InkWell(
           onTap: () => onClick(),
           child: Container(
