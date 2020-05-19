@@ -2,23 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b419caa-23f1-42ee-b806-eb16af6261d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../python3/jogos/adivinhacao.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flutter/bytebank/lib/screens/transferencia/formulario.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter/bytebank/lib/screens/transferencia/formulario.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bytebank/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/python3-p1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python3-p1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/testes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/python3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/bin/python3.7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/lib64" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python3-p1/venv/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python-projects/games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python-projects/games/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/intro-javascript.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/buscar-pacientes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/calcula-imc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/filtra.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/remover-paciente.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +25,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -63,6 +62,8 @@
       <updated>1587987320748</updated>
       <workItem from="1587987322059" duration="163000" />
       <workItem from="1587987499700" duration="50000" />
+      <workItem from="1589802307173" duration="47000" />
+      <workItem from="1589802377084" duration="605000" />
     </task>
     <servers />
   </component>
@@ -78,9 +79,10 @@
       <screen x="1366" y="0" width="2560" height="1080" />
     </state>
     <state x="1667" y="168" key="SettingsEditor/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587987405129" />
-    <state x="1838" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1587987499647">
-      <screen x="1366" y="0" width="2560" height="1080" />
+    <state x="1496" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1589802379319">
+      <screen x="1024" y="0" width="2560" height="1080" />
     </state>
+    <state x="1496" y="360" key="com.intellij.ide.util.TipDialog/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589802379319" />
     <state x="1838" y="360" key="com.intellij.ide.util.TipDialog/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587987499647" />
   </component>
 </project>
