@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b419caa-23f1-42ee-b806-eb16af6261d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../python-projects/games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../python-projects/games/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/intro-javascript.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/buscar-pacientes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/calcula-imc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/filtra.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/remover-paciente.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +49,7 @@
       <workItem from="1587987499700" duration="50000" />
       <workItem from="1589802307173" duration="47000" />
       <workItem from="1589802377084" duration="605000" />
+      <workItem from="1590504282527" duration="130000" />
     </task>
     <servers />
   </component>

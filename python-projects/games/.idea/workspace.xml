@@ -19,28 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91514ec3-9b7c-44c3-96ec-7607bdbd9821" name="Default Changelist" comment="Fim do curso 1 de python.">
-      <change beforePath="$PROJECT_DIR$/../../flutter-projects/flutter2/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../flutter-projects/flutter2/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter-projects/flutter2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../flutter-projects/flutter2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter-projects/flutter2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../flutter-projects/flutter2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../flutter-projects/flutter2/bytebank/bytebank-api" beforeDir="false" />
+    <list default="true" id="91514ec3-9b7c-44c3-96ec-7607bdbd9821" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forca.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/intro-javascript.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/buscar-pacientes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/calcula-imc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/filtra.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../web-projects/js1:aparecida-nutricao/js/remover-paciente.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,7 +138,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587738476934</updated>
       <workItem from="1589804466835" duration="901000" />
-      <workItem from="1589890601183" duration="1559000" />
+      <workItem from="1589890601183" duration="1596000" />
+      <workItem from="1590504254392" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="Fim da aula 3 de python - o comando elif (else if)">
       <created>1588166286576</created>
@@ -181,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589550677941</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Curso dois - dev o forca.py">
+      <created>1589892812437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589892812437</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,45 +191,50 @@
     <MESSAGE value="Fim da aula 3 de python - o comando elif (else if)" />
     <MESSAGE value="Fim da aula 6. Aprendendo random. O Python gera pseudo-random." />
     <MESSAGE value="Fim do curso 1 de python." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fim do curso 1 de python." />
+    <MESSAGE value="Curso dois - dev o forca.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso dois - dev o forca.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1501" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587738536493">
       <screen x="1366" y="0" width="2560" height="1080" />
     </state>
     <state x="1501" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1587738536493" />
+    <state x="1235" y="28" width="890" height="1033" key="CommitChangelistDialog2" timestamp="1589892811457">
+      <screen x="1024" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1235" y="28" width="890" height="1033" key="CommitChangelistDialog2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892811457" />
     <state x="1458" y="286" width="424" height="480" key="FileChooserDialogImpl" timestamp="1589805028639">
       <screen x="1024" y="0" width="2560" height="1080" />
     </state>
     <state x="1458" y="286" width="424" height="480" key="FileChooserDialogImpl/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589805028639" />
-    <state width="1276" height="166" key="GridCell.Tab.0.bottom" timestamp="1589892082229">
+    <state width="1276" height="166" key="GridCell.Tab.0.bottom" timestamp="1589892833551">
       <screen x="1024" y="0" width="2560" height="1080" />
     </state>
-    <state width="1276" height="166" key="GridCell.Tab.0.bottom/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892082229" />
+    <state width="1276" height="166" key="GridCell.Tab.0.bottom/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892833551" />
     <state width="1299" height="173" key="GridCell.Tab.0.bottom/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
-    <state width="1276" height="166" key="GridCell.Tab.0.center" timestamp="1589892082229">
+    <state width="1276" height="166" key="GridCell.Tab.0.center" timestamp="1589892833551">
       <screen x="1024" y="0" width="2560" height="1080" />
     </state>
-    <state width="1276" height="166" key="GridCell.Tab.0.center/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892082229" />
+    <state width="1276" height="166" key="GridCell.Tab.0.center/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892833551" />
     <state width="1299" height="173" key="GridCell.Tab.0.center/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
-    <state width="1276" height="166" key="GridCell.Tab.0.left" timestamp="1589892082229">
+    <state width="1276" height="166" key="GridCell.Tab.0.left" timestamp="1589892833551">
       <screen x="1024" y="0" width="2560" height="1080" />
     </state>
-    <state width="1276" height="166" key="GridCell.Tab.0.left/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892082229" />
+    <state width="1276" height="166" key="GridCell.Tab.0.left/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892833551" />
     <state width="1299" height="173" key="GridCell.Tab.0.left/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
-    <state width="1276" height="166" key="GridCell.Tab.0.right" timestamp="1589892082229">
+    <state width="1276" height="166" key="GridCell.Tab.0.right" timestamp="1589892833551">
       <screen x="1024" y="0" width="2560" height="1080" />
     </state>
-    <state width="1276" height="166" key="GridCell.Tab.0.right/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892082229" />
+    <state width="1276" height="166" key="GridCell.Tab.0.right/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892833551" />
     <state width="1299" height="173" key="GridCell.Tab.0.right/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588942407194" />
     <state x="1174" y="167" key="SettingsEditor" timestamp="1589548365797">
       <screen x="1024" y="0" width="2560" height="1080" />
     </state>
     <state x="1174" y="167" key="SettingsEditor/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589548365797" />
-    <state x="1280" y="269" width="800" height="524" key="Vcs.Push.Dialog.v2" timestamp="1589892795768">
+    <state x="1280" y="269" width="800" height="524" key="Vcs.Push.Dialog.v2" timestamp="1589892816139">
       <screen x="1024" y="0" width="2560" height="1080" />
     </state>
-    <state x="1280" y="269" width="800" height="524" key="Vcs.Push.Dialog.v2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892795768" />
+    <state x="1280" y="269" width="800" height="524" key="Vcs.Push.Dialog.v2/1024.0.2560.1080/0.221.1024.768@1024.0.2560.1080" timestamp="1589892816139" />
     <state x="1622" y="269" width="800" height="524" key="Vcs.Push.Dialog.v2/1366.0.2560.1080/0.312.1366.768@1366.0.2560.1080" timestamp="1588166295010" />
     <state x="1426" y="182" width="762" height="696" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589550503435">
       <screen x="1024" y="0" width="2560" height="1080" />
